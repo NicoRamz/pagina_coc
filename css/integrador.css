@@ -1,0 +1,146 @@
+.ticket{
+    color: rgb(24, 177, 24) !important; 
+}
+
+.ticket_b{
+    color: rgb(38, 247, 38) !important;
+    border-color: rgb(38, 247, 38);
+}
+
+.bg-overlay {
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url(../img/ba1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    height: 100%;
+    padding-top:  250px;
+    padding-right: 100px;
+    padding-bottom: 200px;
+}
+
+.btn_izq{
+    background-color: transparent;
+    border-color: #fff;
+}
+
+.btn_izq:hover{
+    background-color: grey;
+    border-color: darkgray;
+}
+
+.btn_der{
+    background-color: rgb(24, 177, 24);
+    border-color: rgb(24, 177, 24);
+}
+
+.btn_der:hover{
+    background-color: rgb(38, 247, 38);
+    border-color: rgb(24, 177, 24);
+}
+
+.botones{
+    padding-top: 10px;
+}
+
+.tx_ora{
+    text-align: center;
+}
+
+.js{
+    border: 1px solid orange;
+    color: black;
+    display: inline-block;
+    border-radius: 8px;
+    font-weight: bold;
+    background-color: orange;
+}
+
+.re{
+    border: 1px solid lightseagreen;
+    color: #fff;
+    display: inline-block;
+    border-radius: 8px;
+    font-weight: bold;
+    background-color: lightseagreen;
+}
+
+.neg{
+    border: 1px solid grey;
+    color: #fff;
+    display: inline-block;
+    border-radius: 8px;
+    font-weight: bold;
+    background-color: grey;
+}
+
+.star{
+    border: 1px solid red;
+    color: #fff;
+    display: inline-block;
+    border-radius: 8px;
+    font-weight: bold;
+    background-color: red;
+}
+
+.div-izq{
+    background-image: url(../img/honolulu.jpg);
+    background-size: cover;
+    height: auto;
+}
+.div-der{
+    background-color: rgb(19, 51, 76);
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 175px;
+
+}
+
+.sub_pun{
+    text-decoration-style: dotted;
+}
+
+.btn_form{
+    background-color: rgb(119, 173, 37);
+    border-color: rgb(119, 173, 37);
+    width:100%;
+}
+
+.btn_form:hover{
+    background-color: rgb(153, 221, 51);
+    border-color: rgb(119, 173, 37);
+}
+
+.btn_form:focus{
+    background-color: rgb(153, 221, 51);
+    border-color: rgb(153, 221, 51);
+
+    
+}
+
+.carta1{
+    border-width: 2px;
+    border-radius: 0%;
+}
+
+.carta2{
+    border-width: 2px;
+    border-radius: 0%;
+}
+
+.carta3{
+    border-width: 2px;
+    border-radius: 0%;
+}
+
+.formu{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.resultado{
+    background-color: rgb(208, 234, 238) !important;
+    color: rgb(42, 42, 159);
+}
+
+
